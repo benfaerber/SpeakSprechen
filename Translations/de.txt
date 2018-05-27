@@ -1,0 +1,3 @@
+Sagt diese wort:
+Worten Gesagt:
+[r+enter] wiederholen oder [enter] fuer die nachste wort
